@@ -70,9 +70,14 @@ Entregar:
 
 ## 🛠️ Ferramentas Utilizadas
 
-- Jqwik – Testes baseados em propriedades
-- AssertJ – Verificações expressivas nos testes
-- GitHub Actions – Integração contínua e automação de testes
+| Ferramenta     | Finalidade                                  |
+|----------------|---------------------------------------------|
+| Jqwik          | Testes baseados em propriedades             |
+| AssertJ        | Verificações expressivas em testes          |
+| Java 17        | Linguagem base para a implementação         |
+| Maven          | Gerenciamento do projeto e dependências     |
+| GitHub Actions | Execução automática de testes (CI)          |
+| Git            | Controle de versão e colaboração            |
 
 ## 📊 Critérios de Avaliação
 
